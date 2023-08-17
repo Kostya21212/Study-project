@@ -339,7 +339,7 @@ line-height: 140.625%; /* 22.5px */
   flex-direction: column;
 }
 .menu-text-categories{
-  padding-bottom: 3px;
+  padding-bottom: 2px;
 }
 .menu-categories{
 color: var(--828282, #828282);
@@ -394,4 +394,20 @@ line-height: normal;
 }
 .hr_line{
   margin-bottom: 30px;
+  border: 1px solid #efefef;
+}
+.hr_impuls{
+  border: 1px solid #efefef;
+}
+.hr_line_bottom{
+  border: 1px solid #efefef;
+  margin-top: 60px;
+  margin-bottom: 40px;
+}
+.twoside-futtor {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding-bottom: 40px;
+  
 }
