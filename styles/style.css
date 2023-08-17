@@ -82,7 +82,7 @@
 
 .call-btn {
   border-color: #f13c6e;
-  background-color: #efefef;
+  background-color: #ffffff;
   padding: 12px 50px;
 }
 .container{
@@ -335,7 +335,7 @@ line-height: 140.625%; /* 22.5px */
 .menu-text{
   display: flex;
   justify-content: center;
-  align-items: center;
+  align-items: flex-start;
   flex-direction: column;
 }
 .menu-text-categories{
